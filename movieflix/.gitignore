@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# 🐳 Docker
+docker-compose.override.yml
+.env
+.dockerignore
+Dockerfile
+docker-compose.*.yml
